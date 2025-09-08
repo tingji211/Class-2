@@ -3,3 +3,10 @@ title: "If this can work"
 format: html
 ---
 
+```{r}
+library(ggplot2)
+a <- seq(1,10,by = 2)
+a
+plot(a)
+```
+
